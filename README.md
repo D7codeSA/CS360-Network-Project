@@ -10,22 +10,21 @@ This repository contains the Cisco Packet Tracer files, screenshots, documentati
 
 
 
-1. Name: Abdulrahman Bin Omran  
+1.
+Name: Abdulrahman Bin Omran  
+SID: 240005185
+Github User: D7codeSA
 
-SID: 240005185 
+2.
+Name: Abdullah Ali Almekrami
+SID: 240004954
+Github User: AbdullahAlmekrami
 
-2.Name: Abdullah Ali Almekrami
-
-SID: 240004954 
-
-3. Name: Ali zaid almogherah 
-
+4.
+Name: Ali zaid almogherah 
 SID: 200068392
-
+Github User: AliZaidAlmogherah
 
 
 ## Project Objective
-
-
-
 Design, configure, and test a network that connects the main campus and the branch across a WAN connection.
